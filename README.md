@@ -50,7 +50,7 @@ Change the settings.example.py file to settings.py file
 - And you have to give your email and password
 ```
 EMAIL_HOST_USER = 'youremail@gmail.com'
-EMAIL_HOST_PASSWORD = 'your email password'
+EMAIL_HOST_PASSWORD = 'your password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 
