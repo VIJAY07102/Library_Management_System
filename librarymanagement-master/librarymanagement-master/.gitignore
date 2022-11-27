@@ -4,4 +4,4 @@
 *.pyc
 __pycache__
 db.sqlite3
-library_managementsettings.py
+./library_management/settings.py
