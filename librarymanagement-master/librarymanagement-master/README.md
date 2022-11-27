@@ -1,9 +1,9 @@
 # Library Management
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/library_management/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/VIJAY07102/Silencio_System/blob/main/librarymanagement-master/librarymanagement-master/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/library_management/blob/master/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://github.com/VIJAY07102/Silencio_System/blob/main/librarymanagement-master/librarymanagement-master/adminhomepage.png?raw=true)
 ---
 ## Functions
 ### Admin
